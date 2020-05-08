@@ -53,12 +53,12 @@
     --col: 80px;
     --gap: 20px;
     --cl: calc(var(--col) + var(--gap));
-    --main: $icon-button-color;
-    --accent: $main-color;
+    --main:#95e1d3;
+    --accent: #f38181;
     --text: #333;
     --text-light: #999;
     --trans: all 0.2s linear;
-    --mont: $font-primary;
+    --mont: "Montserrat", sans-serif;
   }
   
   .employee {
